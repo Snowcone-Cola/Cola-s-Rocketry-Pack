@@ -27,7 +27,7 @@
                 <orbitalTheta>0</orbitalTheta>
                 <orbitalPhi>0</orbitalPhi>
                 <retrograde>false</retrograde>
-                <avgTemperature>255</avgTemperature>
+                <avgTemperature>208</avgTemperature>
                 <rotationalPeriod>128000</rotationalPeriod>
                 <atmosphereDensity>0</atmosphereDensity>
                 <generateCraters>true</generateCraters>
@@ -104,7 +104,7 @@
                 <gravitationalMultiplier>39</gravitationalMultiplier>
                 <orbitalDistance>172</orbitalDistance>
                 <orbitalTheta>211</orbitalTheta>
-                <orbitalPhi>-419</orbitalPhi>
+                <orbitalPhi>-59</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>195</avgTemperature>
                 <rotationalPeriod>404592</rotationalPeriod>
@@ -217,7 +217,7 @@
             <isKnown>false</isKnown>
             <fogColor>1.0,1.0,1.0</fogColor>
             <skyColor>0.8,0.8538633,0.7512152</skyColor>
-            <gravitationalMultiplier>118</gravitationalMultiplier>
+            <gravitationalMultiplier>116</gravitationalMultiplier>
             <orbitalDistance>127</orbitalDistance>
             <orbitalTheta>53</orbitalTheta>
             <orbitalPhi>-133</orbitalPhi>
@@ -664,7 +664,7 @@
                 <gravitationalMultiplier>85</gravitationalMultiplier>
                 <orbitalDistance>136</orbitalDistance>
                 <orbitalTheta>61</orbitalTheta>
-                <orbitalPhi>-443</orbitalPhi>
+                <orbitalPhi>-83</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>372</avgTemperature>
                 <rotationalPeriod>39079</rotationalPeriod>
@@ -799,7 +799,7 @@
                 <gravitationalMultiplier>45</gravitationalMultiplier>
                 <orbitalDistance>147</orbitalDistance>
                 <orbitalTheta>318</orbitalTheta>
-                <orbitalPhi>-530</orbitalPhi>
+                <orbitalPhi>-170</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>358</avgTemperature>
                 <rotationalPeriod>263374</rotationalPeriod>
@@ -838,7 +838,7 @@
             <skyColor>0.8,0.9882846,0.49138725</skyColor>
             <gravitationalMultiplier>88</gravitationalMultiplier>
             <orbitalDistance>169</orbitalDistance>
-            <orbitalTheta>239</orbitalTheta>
+            <orbitalTheta>238</orbitalTheta>
             <orbitalPhi>-284</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>334</avgTemperature>
@@ -999,7 +999,7 @@
             <gravitationalMultiplier>123</gravitationalMultiplier>
             <orbitalDistance>73</orbitalDistance>
             <orbitalTheta>201</orbitalTheta>
-            <orbitalPhi>-420</orbitalPhi>
+            <orbitalPhi>-60</orbitalPhi>
             <retrograde>false</retrograde>
             <avgTemperature>272</avgTemperature>
             <rotationalPeriod>12741</rotationalPeriod>
@@ -1075,7 +1075,7 @@
                 <gravitationalMultiplier>41</gravitationalMultiplier>
                 <orbitalDistance>103</orbitalDistance>
                 <orbitalTheta>48</orbitalTheta>
-                <orbitalPhi>-549</orbitalPhi>
+                <orbitalPhi>-189</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>176</avgTemperature>
                 <rotationalPeriod>348224</rotationalPeriod>
@@ -1134,7 +1134,7 @@
                 <gravitationalMultiplier>46</gravitationalMultiplier>
                 <orbitalDistance>178</orbitalDistance>
                 <orbitalTheta>311</orbitalTheta>
-                <orbitalPhi>-374</orbitalPhi>
+                <orbitalPhi>-14</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>383</avgTemperature>
                 <rotationalPeriod>246568</rotationalPeriod>
@@ -1506,7 +1506,7 @@
                 <gravitationalMultiplier>48</gravitationalMultiplier>
                 <orbitalDistance>154</orbitalDistance>
                 <orbitalTheta>286</orbitalTheta>
-                <orbitalPhi>-391</orbitalPhi>
+                <orbitalPhi>-31</orbitalPhi>
                 <retrograde>false</retrograde>
                 <avgTemperature>247</avgTemperature>
                 <rotationalPeriod>217013</rotationalPeriod>
