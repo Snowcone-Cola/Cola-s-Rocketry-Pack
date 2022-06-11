@@ -10,3 +10,4 @@ val warpFuel = <ore:gemDilithium>;
 warpFuel.add(<contenttweaker:zs_item>);
 
 <contenttweaker:zs_item>.displayName = "Activated Warp Fuel";
+
