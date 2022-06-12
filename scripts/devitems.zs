@@ -3,7 +3,7 @@ import crafttweaker.item.IIngredient;
 // To turn on developer items, 
 
 val allDevItems = [
-	<contenttweaker:CRWarp>
+	<contenttweaker:crwarp>
 ] as IIngredient[];
 
 
