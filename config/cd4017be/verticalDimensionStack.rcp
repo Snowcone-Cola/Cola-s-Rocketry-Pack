@@ -67,11 +67,11 @@ INIT() {
 	dim_transitions:1 = ["minecraft:air", 0, "minecraft:air", 0]; !The End has air at both floor and ceiling
 	
 	!lower the portal ceiling height in the nether
-	dim_ceiling:-1 = 127;
+	dim_ceiling:-1 = 125;
 	!Note: setting dim_ceiling to negative values will flip the dimension upside down, meaning that floor and ceiling portals are swapped.
 	
 	!prevent bedrock from being generated in ...
-	!rem_block_gen:0 = "minecraft:bedrock"; !the Overworld (rem '!' to enable)
+	rem_block_gen:0 = "minecraft:bedrock"; !the Overworld (rem '!' to enable)
 	!rem_block_gen:-1 = "minecraft:bedrock"; !the Nether (rem '!' to enable)
 	
 	!register a new noise field

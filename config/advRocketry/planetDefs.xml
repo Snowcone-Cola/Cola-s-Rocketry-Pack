@@ -1,0 +1,34 @@
+<galaxy>
+    <star name="Sol" temp="100" x="10" y="13" numPlanets="0" numGasGiants="0" blackHole="false">
+        <planet name="Sol-0 Vulcan" customIcon="MarsLike">
+            <orbitalDistance>10</orbitalDistance>
+            <orbitalTheta>016</orbitalTheta>
+            <rotationalPeriod>51000</rotationalPeriod>
+            <isKnown>false</isKnown>
+            <artifact>contenttweaker:vulcan_data_pristine</artifact>
+        </planet>
+        <planet name="Sol-II Terra" DIMID="0">
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>016</orbitalTheta>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <isKnown>True</isKnown>
+            <planet name="Sol-II-A Luna">
+                <fogColor>1,1,1</fogColor>
+                <skyColor>1,0.5,0.5</skyColor>
+                <atmosphereDensity>10</atmosphereDensity>
+                <gravitationalMultiplier>20</gravitationalMultiplier>
+                <orbitalDistance>150</orbitalDistance>
+                <orbitalTheta>190</orbitalTheta>
+                <rotationalPeriod>1000</rotationalPeriod>
+                <biomeIds>94</biomeIds>
+            </planet>
+        </planet>
+    </star>
+    <star name="The Annihilator" temp="100" x="-124" y="185" numPlanets="0" numGasGiants="0" blackHole="true">
+        <planet name="The End" DIMID="1">
+            <orbitalDistance>500</orbitalDistance>
+            <orbitalTheta>186</orbitalTheta>
+            <isKnown>True</isKnown>
+        </planet>
+    </star>
+</galaxy>

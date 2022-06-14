@@ -1566,326 +1566,6 @@ advancedrocketry:smallairlockdoor, Small Airlock Door
 advancedrocketry:hovercraft, Hovercraft
 advancedrocketry:spacestation:0, Space Station Container
 forge:bucketfilled, %s Bucket
-immersiveengineering:ore:0, Copper Ore
-immersiveengineering:ore:1, Bauxite Ore
-immersiveengineering:ore:2, Lead Ore
-immersiveengineering:ore:3, Silver Ore
-immersiveengineering:ore:4, Nickel Ore
-immersiveengineering:ore:5, Uranium Ore
-immersiveengineering:storage:0, Block of Copper
-immersiveengineering:storage:1, Block of Aluminium
-immersiveengineering:storage:2, Block of Lead
-immersiveengineering:storage:3, Block of Silver
-immersiveengineering:storage:4, Block of Nickel
-immersiveengineering:storage:5, Block of Uranium
-immersiveengineering:storage:6, Block of Constantan
-immersiveengineering:storage:7, Block of Electrum
-immersiveengineering:storage:8, Block of Steel
-immersiveengineering:storage_slab:0, Copper Slab
-immersiveengineering:storage_slab:1, Aluminium Slab
-immersiveengineering:storage_slab:2, Lead Slab
-immersiveengineering:storage_slab:3, Silver Slab
-immersiveengineering:storage_slab:4, Nickel Slab
-immersiveengineering:storage_slab:5, Uranium Slab
-immersiveengineering:storage_slab:6, Constantan Slab
-immersiveengineering:storage_slab:7, Electrum Slab
-immersiveengineering:storage_slab:8, Steel Slab
-immersiveengineering:stone_decoration:0, Coke Brick
-immersiveengineering:stone_decoration:1, Blast Brick
-immersiveengineering:stone_decoration:2, Reinforced Blast Brick
-immersiveengineering:stone_decoration:3, Block of Coal Coke
-immersiveengineering:stone_decoration:4, Hempcrete
-immersiveengineering:stone_decoration:5, Concrete
-immersiveengineering:stone_decoration:6, Concrete Tile
-immersiveengineering:stone_decoration:7, Leaded Concrete
-immersiveengineering:stone_decoration:8, Insulating Glass
-immersiveengineering:stone_decoration:10, Kiln Brick
-immersiveengineering:stone_decoration_slab:0, Coke Brick Slab
-immersiveengineering:stone_decoration_slab:1, Blast Brick Slab
-immersiveengineering:stone_decoration_slab:2, Reinforced Blast Brick Slab
-immersiveengineering:stone_decoration_slab:4, Hempcrete Slab
-immersiveengineering:stone_decoration_slab:5, Concrete Slab
-immersiveengineering:stone_decoration_slab:6, Concrete Tile Slab
-immersiveengineering:stone_decoration_slab:7, Leaded Concrete Slab
-immersiveengineering:stone_decoration_slab:10, Kiln Brick Slab
-immersiveengineering:stone_decoration_stairs_hempcrete, Hempcrete Stairs
-immersiveengineering:stone_decoration_stairs_concrete, Concrete Stairs
-immersiveengineering:stone_decoration_stairs_concrete_tile, Concrete Tile Stairs
-immersiveengineering:stone_decoration_stairs_concrete_leaded, Leaded Concrete Stairs
-immersiveengineering:stone_device:3, Concrete Sheet
-immersiveengineering:stone_device:4, Concrete Panel
-immersiveengineering:stone_device:5, Concrete Chunk
-immersiveengineering:treated_wood:0, Treated Wood Planks
-immersiveengineering:treated_wood:1, Treated Wood Planks
-immersiveengineering:treated_wood:2, Treated Wood Planks
-immersiveengineering:treated_wood_slab:0, Treated Wood Slab
-immersiveengineering:treated_wood_slab:1, Treated Wood Slab
-immersiveengineering:treated_wood_slab:2, Treated Wood Slab
-immersiveengineering:treated_wood_stairs0, Treated Wood Stairs
-immersiveengineering:treated_wood_stairs1, Treated Wood Stairs
-immersiveengineering:treated_wood_stairs2, Treated Wood Stairs
-immersiveengineering:wooden_decoration:0, Treated Wood Fence
-immersiveengineering:wooden_decoration:1, Treated Wood Scaffolding
-immersiveengineering:wooden_device0:0, Wooden Storage Crate
-immersiveengineering:wooden_device0:1, Wooden Barrel
-immersiveengineering:wooden_device0:2, Engineer's Workbench
-immersiveengineering:wooden_device0:3, Item Router
-immersiveengineering:wooden_device0:4, Gunpowder Barrel
-immersiveengineering:wooden_device0:5, Reinforced Storage Crate
-immersiveengineering:wooden_device0:6, Turntable
-immersiveengineering:wooden_device0:7, Fluid Router
-immersiveengineering:wooden_device1:0, Water Wheel
-immersiveengineering:wooden_device1:1, Windmill
-immersiveengineering:wooden_device1:3, Wooden Post
-immersiveengineering:wooden_device1:4, Wooden Wallmount
-immersiveengineering:hemp, Industrial Hemp
-immersiveengineering:cloth_device:0, Jump Cushion
-immersiveengineering:cloth_device:1, Balloon
-immersiveengineering:cloth_device:2, Strip Curtain
-immersiveengineering:fake_light, tile.immersiveengineering.fake_light.name
-immersiveengineering:sheetmetal:0, Copper Sheetmetal
-immersiveengineering:sheetmetal:1, Aluminium Sheetmetal
-immersiveengineering:sheetmetal:2, Lead Sheetmetal
-immersiveengineering:sheetmetal:3, Silver Sheetmetal
-immersiveengineering:sheetmetal:4, Nickel Sheetmetal
-immersiveengineering:sheetmetal:5, Uranium Sheetmetal
-immersiveengineering:sheetmetal:6, Constantan Sheetmetal
-immersiveengineering:sheetmetal:7, Electrum Sheetmetal
-immersiveengineering:sheetmetal:8, Steel Sheetmetal
-immersiveengineering:sheetmetal:9, Iron Sheetmetal
-immersiveengineering:sheetmetal:10, Gold Sheetmetal
-immersiveengineering:sheetmetal_slab:0, Copper Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:1, Aluminium Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:2, Lead Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:3, Silver Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:4, Nickel Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:5, Uranium Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:6, Constantan Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:7, Electrum Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:8, Steel Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:9, Iron Sheetmetal Slab
-immersiveengineering:sheetmetal_slab:10, Gold Sheetmetal Slab
-immersiveengineering:metal_decoration0:0, Copper Coil Block
-immersiveengineering:metal_decoration0:1, Electrum Coil Block
-immersiveengineering:metal_decoration0:2, High-Voltage Coil Block
-immersiveengineering:metal_decoration0:3, Redstone Engineering Block
-immersiveengineering:metal_decoration0:4, Light Engineering Block
-immersiveengineering:metal_decoration0:5, Heavy Engineering Block
-immersiveengineering:metal_decoration0:6, Generator Block
-immersiveengineering:metal_decoration0:7, Radiator Block
-immersiveengineering:metal_decoration1:0, Steel Fence
-immersiveengineering:metal_decoration1:1, Steel Scaffolding
-immersiveengineering:metal_decoration1:2, Steel Scaffolding
-immersiveengineering:metal_decoration1:3, Steel Scaffolding
-immersiveengineering:metal_decoration1:4, Aluminium Fence
-immersiveengineering:metal_decoration1:5, Aluminium Scaffolding
-immersiveengineering:metal_decoration1:6, Aluminium Scaffolding
-immersiveengineering:metal_decoration1:7, Aluminium Scaffolding
-immersiveengineering:metal_decoration2:0, Steel Post
-immersiveengineering:metal_decoration2:1, Steel Wallmount
-immersiveengineering:metal_decoration2:2, Aluminium Post
-immersiveengineering:metal_decoration2:3, Aluminium Wallmount
-immersiveengineering:metal_decoration2:4, Lantern
-immersiveengineering:metal_decoration2:5, Razor Wire
-immersiveengineering:metal_decoration2:7, Steel Structural Arm
-immersiveengineering:metal_decoration2:8, Aluminium Structural Arm
-immersiveengineering:metal_decoration1_slab:1, Steel Scaffolding Slab
-immersiveengineering:metal_decoration1_slab:2, Steel Scaffolding Slab
-immersiveengineering:metal_decoration1_slab:3, Steel Scaffolding Slab
-immersiveengineering:metal_decoration1_slab:5, Aluminium Scaffolding Slab
-immersiveengineering:metal_decoration1_slab:6, Aluminium Scaffolding Slab
-immersiveengineering:metal_decoration1_slab:7, Aluminium Scaffolding Slab
-immersiveengineering:steel_scaffolding_stairs0, Steel Scaffolding Stairs
-immersiveengineering:steel_scaffolding_stairs1, Steel Scaffolding Stairs
-immersiveengineering:steel_scaffolding_stairs2, Steel Scaffolding Stairs
-immersiveengineering:aluminum_scaffolding_stairs0, Aluminium Scaffolding Stairs
-immersiveengineering:aluminum_scaffolding_stairs1, Aluminium Scaffolding Stairs
-immersiveengineering:aluminum_scaffolding_stairs2, Aluminium Scaffolding Stairs
-immersiveengineering:metal_ladder:0, Metal Ladder
-immersiveengineering:metal_ladder:1, Scaffold Covered Ladder
-immersiveengineering:metal_ladder:2, Scaffold Covered Ladder
-immersiveengineering:connector:0, LV Wire Connector
-immersiveengineering:connector:1, LV Wire Relay
-immersiveengineering:connector:2, MV Wire Connector
-immersiveengineering:connector:3, MV Wire Relay
-immersiveengineering:connector:4, HV Wire Connector
-immersiveengineering:connector:5, HV Wire Relay
-immersiveengineering:connector:6, Structural Cable Connector
-immersiveengineering:connector:7, Transformer
-immersiveengineering:connector:8, HV Transformer
-immersiveengineering:connector:9, Breaker Switch
-immersiveengineering:connector:10, Redstone Breaker
-immersiveengineering:connector:11, Current Transformer
-immersiveengineering:connector:12, Redstone Wire Connector
-immersiveengineering:connector:13, Redstone Probe Connector
-immersiveengineering:metal_device0:0, LV Capacitor
-immersiveengineering:metal_device0:1, MV Capacitor
-immersiveengineering:metal_device0:2, HV Capacitor
-immersiveengineering:metal_device0:3, Creative Capacitor
-immersiveengineering:metal_device0:4, Metal Barrel
-immersiveengineering:metal_device0:5, Fluid Pump
-immersiveengineering:metal_device0:6, Fluid Outlet
-immersiveengineering:metal_device1:0, Blast Furnace Preheater
-immersiveengineering:metal_device1:1, External Heater
-immersiveengineering:metal_device1:2, Kinetic Dynamo
-immersiveengineering:metal_device1:3, Thermoelectric Generator
-immersiveengineering:metal_device1:4, Powered Lantern
-immersiveengineering:metal_device1:5, Charging Station
-immersiveengineering:metal_device1:6, Fluid Pipe
-immersiveengineering:metal_device1:7, Core Sample Drill
-immersiveengineering:metal_device1:8, Tesla Coil
-immersiveengineering:metal_device1:9, Floodlight
-immersiveengineering:metal_device1:10, Chemthrower Turret
-immersiveengineering:metal_device1:11, Gun Turret
-immersiveengineering:metal_device1:13, Garden Cloche
-immersiveengineering:conveyor, tile.immersiveengineering.conveyor.name
-immersiveengineering:material:0, Treated Stick
-immersiveengineering:material:1, Iron Rod
-immersiveengineering:material:2, Steel Rod
-immersiveengineering:material:3, Aluminium Rod
-immersiveengineering:material:4, Industrial Hemp Fiber
-immersiveengineering:material:5, Tough Fabric
-immersiveengineering:material:6, Coal Coke
-immersiveengineering:material:7, Slag
-immersiveengineering:material:8, Iron Mechanical Component
-immersiveengineering:material:9, Steel Mechanical Component
-immersiveengineering:material:10, Waterwheel Segment
-immersiveengineering:material:11, Windmill Blade
-immersiveengineering:material:12, Windmill Sail
-immersiveengineering:material:13, Wooden Grip
-immersiveengineering:material:14, Revolver Barrel
-immersiveengineering:material:15, Revolver Drum
-immersiveengineering:material:16, Revolver Hammer
-immersiveengineering:material:17, Coke Dust
-immersiveengineering:material:18, HOP Graphite Dust
-immersiveengineering:material:19, HOP Graphite Ingot
-immersiveengineering:material:20, Copper Wire
-immersiveengineering:material:21, Electrum Wire
-immersiveengineering:material:22, Aluminium Wire
-immersiveengineering:material:23, Steel Wire
-immersiveengineering:material:24, Nitrate Dust
-immersiveengineering:material:25, Sulfur Dust
-immersiveengineering:material:26, Vacuum Tube
-immersiveengineering:material:27, Circuit Board
-immersiveengineering:metal:0, Copper Ingot
-immersiveengineering:metal:1, Aluminium Ingot
-immersiveengineering:metal:2, Lead Ingot
-immersiveengineering:metal:3, Silver Ingot
-immersiveengineering:metal:4, Nickel Ingot
-immersiveengineering:metal:5, Uranium Ingot
-immersiveengineering:metal:6, Constantan Ingot
-immersiveengineering:metal:7, Electrum Ingot
-immersiveengineering:metal:8, Steel Ingot
-immersiveengineering:metal:9, Copper Grit
-immersiveengineering:metal:10, Aluminium Grit
-immersiveengineering:metal:11, Lead Grit
-immersiveengineering:metal:12, Silver Grit
-immersiveengineering:metal:13, Nickel Grit
-immersiveengineering:metal:14, Uranium Grit
-immersiveengineering:metal:15, Constantan Grit
-immersiveengineering:metal:16, Electrum Grit
-immersiveengineering:metal:17, Steel Grit
-immersiveengineering:metal:18, Iron Grit
-immersiveengineering:metal:19, Gold Grit
-immersiveengineering:metal:20, Copper Nugget
-immersiveengineering:metal:21, Aluminium Nugget
-immersiveengineering:metal:22, Lead Nugget
-immersiveengineering:metal:23, Silver Nugget
-immersiveengineering:metal:24, Nickel Nugget
-immersiveengineering:metal:25, Uranium Nugget
-immersiveengineering:metal:26, Constantan Nugget
-immersiveengineering:metal:27, Electrum Nugget
-immersiveengineering:metal:28, Steel Nugget
-immersiveengineering:metal:29, Iron Nugget
-immersiveengineering:metal:30, Copper Plate
-immersiveengineering:metal:31, Aluminium Plate
-immersiveengineering:metal:32, Lead Plate
-immersiveengineering:metal:33, Silver Plate
-immersiveengineering:metal:34, Nickel Plate
-immersiveengineering:metal:35, Uranium Plate
-immersiveengineering:metal:36, Constantan Plate
-immersiveengineering:metal:37, Electrum Plate
-immersiveengineering:metal:38, Steel Plate
-immersiveengineering:metal:39, Iron Plate
-immersiveengineering:metal:40, Gold Plate
-immersiveengineering:tool:0, Engineer's Hammer
-immersiveengineering:tool:1, Engineer's Wire Cutters
-immersiveengineering:tool:2, Engineer's Voltmeter
-immersiveengineering:tool:3, Engineer's Manual
-immersiveengineering:pickaxe_steel, Steel Pickaxe
-immersiveengineering:shovel_steel, Steel Shovel
-immersiveengineering:axe_steel, Steel Axe
-immersiveengineering:hoe_steel, Steel Hoe
-immersiveengineering:sword_steel, Steel Sword
-immersiveengineering:toolbox, Engineer's Toolbox
-immersiveengineering:wirecoil:0, LV Wire Coil
-immersiveengineering:wirecoil:1, MV Wire Coil
-immersiveengineering:wirecoil:2, HV Wire Coil
-immersiveengineering:wirecoil:3, Hemp Rope Coil
-immersiveengineering:wirecoil:4, Steel Cable Coil
-immersiveengineering:wirecoil:5, Redstone Wire Coil
-immersiveengineering:wirecoil:6, Insulated LV Wire Coil
-immersiveengineering:wirecoil:7, Insulated MV Wire Coil
-immersiveengineering:seed:0, Industrial Hemp Seeds
-immersiveengineering:drill:0, Mining Drill
-immersiveengineering:drillhead:0, Steel Drill Head
-immersiveengineering:drillhead:1, Iron Drill Head
-immersiveengineering:jerrycan, Jerrycan
-immersiveengineering:mold:0, Metal Press Mold: Plate
-immersiveengineering:mold:1, Metal Press Mold: Gear
-immersiveengineering:mold:2, Metal Press Mold: Rod
-immersiveengineering:mold:3, Metal Press Mold: Bullet Casing
-immersiveengineering:mold:4, Metal Press Mold: Wire
-immersiveengineering:mold:5, Metal Press Mold: Packing 2x2
-immersiveengineering:mold:6, Metal Press Mold: Packing 3x3
-immersiveengineering:mold:7, Metal Press Mold: Unpacking
-immersiveengineering:blueprint, Engineer's Blueprint
-immersiveengineering:revolver, Revolver
-immersiveengineering:speedloader, Revolver Speedloader
-immersiveengineering:bullet:0, Empty Casing
-immersiveengineering:bullet:1, Empty Shell
-immersiveengineering:bullet:2, Casull Cartridge
-immersiveengineering:bullet:2, Armor-Piercing Cartridge
-immersiveengineering:bullet:2, Buckshot Cartridge
-immersiveengineering:bullet:2, High-Explosive Cartridge
-immersiveengineering:bullet:2, Silver Cartridge
-immersiveengineering:bullet:2, Dragon's Breath Cartridge
-immersiveengineering:bullet:2, Phial Cartridge
-immersiveengineering:bullet:2, Flare Cartridge
-immersiveengineering:chemthrower, Chemical Thrower
-immersiveengineering:railgun, Railgun
-immersiveengineering:skyhook, Engineer's Skyhook
-immersiveengineering:toolupgrade:0, Pressurized Air Tank
-immersiveengineering:toolupgrade:1, Advanced Lubrication System
-immersiveengineering:toolupgrade:2, Additional Augers
-immersiveengineering:toolupgrade:3, Large Tank
-immersiveengineering:toolupgrade:4, Bayonet
-immersiveengineering:toolupgrade:5, Extended Magazine
-immersiveengineering:toolupgrade:6, Amplifier Electron Tubes
-immersiveengineering:toolupgrade:7, Focused Nozzle
-immersiveengineering:toolupgrade:8, Precision Scope
-immersiveengineering:toolupgrade:9, Additional Capacitors
-immersiveengineering:toolupgrade:10, Flashbulb
-immersiveengineering:toolupgrade:11, Shock Emitters
-immersiveengineering:toolupgrade:12, Magnetic Glove
-immersiveengineering:toolupgrade:13, Multitank
-immersiveengineering:shader, Shader
-immersiveengineering:shader_bag, Shader Grabbag
-immersiveengineering:earmuffs, Ear Defenders
-immersiveengineering:coresample, Core Sample
-immersiveengineering:graphite_electrode, Graphite Electrode
-immersiveengineering:faraday_suit_feet, Faraday Boots
-immersiveengineering:faraday_suit_legs, Faraday Leggings
-immersiveengineering:faraday_suit_chest, Faraday Chestplate
-immersiveengineering:faraday_suit_head, Faraday Helmet
-immersiveengineering:fluorescent_tube, Fluorescent Tube
-immersiveengineering:powerpack, Capacitor Backpack
-immersiveengineering:shield, Heavy Plated Shield
-immersiveengineering:maintenance_kit, Maintenance Kit
-immersiveengineering:steel_armor_feet, Steel Boots
-immersiveengineering:steel_armor_legs, Steel Leggings
-immersiveengineering:steel_armor_chest, Steel Chestplate
-immersiveengineering:steel_armor_head, Steel Helmet
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -2310,53 +1990,6 @@ appliedenergistics2:facade:0, Cable Facade - Lightwood Leaves
 appliedenergistics2:facade:0, Cable Facade - Lightwood planks
 appliedenergistics2:facade:0, Cable Facade - Titanium Aluminide Block
 appliedenergistics2:facade:0, Cable Facade - Titanium Iridium Alloy Block
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Bauxite Ore
-appliedenergistics2:facade:0, Cable Facade - Lead Ore
-appliedenergistics2:facade:0, Cable Facade - Silver Ore
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore
-appliedenergistics2:facade:0, Cable Facade - Block of Copper
-appliedenergistics2:facade:0, Cable Facade - Block of Aluminium
-appliedenergistics2:facade:0, Cable Facade - Block of Lead
-appliedenergistics2:facade:0, Cable Facade - Block of Silver
-appliedenergistics2:facade:0, Cable Facade - Block of Nickel
-appliedenergistics2:facade:0, Cable Facade - Block of Uranium
-appliedenergistics2:facade:0, Cable Facade - Block of Constantan
-appliedenergistics2:facade:0, Cable Facade - Block of Electrum
-appliedenergistics2:facade:0, Cable Facade - Block of Steel
-appliedenergistics2:facade:0, Cable Facade - Coke Brick
-appliedenergistics2:facade:0, Cable Facade - Blast Brick
-appliedenergistics2:facade:0, Cable Facade - Reinforced Blast Brick
-appliedenergistics2:facade:0, Cable Facade - Block of Coal Coke
-appliedenergistics2:facade:0, Cable Facade - Hempcrete
-appliedenergistics2:facade:0, Cable Facade - Concrete
-appliedenergistics2:facade:0, Cable Facade - Concrete Tile
-appliedenergistics2:facade:0, Cable Facade - Leaded Concrete
-appliedenergistics2:facade:0, Cable Facade - Insulating Glass
-appliedenergistics2:facade:0, Cable Facade - Kiln Brick
-appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
-appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
-appliedenergistics2:facade:0, Cable Facade - Treated Wood Planks
-appliedenergistics2:facade:0, Cable Facade - Copper Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Aluminium Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Lead Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Silver Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Nickel Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Uranium Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Constantan Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Electrum Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Steel Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Iron Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Gold Sheetmetal
-appliedenergistics2:facade:0, Cable Facade - Copper Coil Block
-appliedenergistics2:facade:0, Cable Facade - Electrum Coil Block
-appliedenergistics2:facade:0, Cable Facade - High-Voltage Coil Block
-appliedenergistics2:facade:0, Cable Facade - Redstone Engineering Block
-appliedenergistics2:facade:0, Cable Facade - Light Engineering Block
-appliedenergistics2:facade:0, Cable Facade - Heavy Engineering Block
-appliedenergistics2:facade:0, Cable Facade - Generator Block
-appliedenergistics2:facade:0, Cable Facade - Radiator Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -2387,6 +2020,7 @@ appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
 appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
 appliedenergistics2:facade:0, Cable Facade - Block of Black Iron
 appliedenergistics2:facade:0, Cable Facade - Crafting Table
+appliedenergistics2:facade:0, Cable Facade - tile.fake_ice.name
 appliedenergistics2:facade:0, Cable Facade - Transition Portal
 appliedenergistics2:facade:0, Cable Facade - Barrier §4Alpha
 appliedenergistics2:facade:0, Cable Facade - Barrier §6Beta
@@ -2404,118 +2038,70 @@ appliedenergistics2:facade:0, Cable Facade - Fiery Bedrock
 appliedenergistics2:facade:0, Cable Facade - Organic Bedrock
 appliedenergistics2:facade:0, Cable Facade - Magical Bedrock
 appliedenergistics2:facade:0, Cable Facade - Void Bedrock
-appliedenergistics2:facade:0, Cable Facade - Iron Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Coal Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Nickel Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Silver Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Silver Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Lead Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lead Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Silver Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Silver Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Copper Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Copper Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Uranium Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Bauxite Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Bauxite Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Bauxite Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Bauxite Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Uranium Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Iron Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Copper Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Copper Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Bauxite Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Bauxite Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Coal Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Coal Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Copper Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Copper Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Uranium Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Copper Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Copper Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Green Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Gold Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Green Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Lead Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lead Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Lead Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lead Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Green Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Diorite)
 appliedenergistics2:facade:0, Cable Facade - Gold Ore (Granite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Iron Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Lead Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lead Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Bauxite Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Bauxite Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Gold Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Silver Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Silver Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Gold Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore (Granite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Nickel Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Coal Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Coal Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Stone)
 appliedenergistics2:facade:0, Cable Facade - Iron Ore (Diorite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Uranium Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Uranium Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Stone)
 appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Diorite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Diorite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Diorite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Silver Ore (Stone)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Silver Ore (Stone)
 appliedenergistics2:facade:0, Cable Facade - Coal Ore (Andesite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Nickel Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Stone)
 appliedenergistics2:facade:0, Cable Facade - Green Ore (Andesite)
 appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Andesite)
-appliedenergistics2:facade:0, Cable Facade - Nickel Ore (Diorite)
-appliedenergistics2:facade:0, Cable Facade - Dense§r Nickel Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Iron Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Gold Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Green Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Green Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Iron Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Gold Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Gold Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Gold Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Iron Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Iron Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Redstone Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Redstone Ore (Andesite)
+appliedenergistics2:facade:0, Cable Facade - Coal Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Coal Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Lapis Lazuli Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Lapis Lazuli Ore (Diorite)
+appliedenergistics2:facade:0, Cable Facade - Diamond Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Diamond Ore (Stone)
+appliedenergistics2:facade:0, Cable Facade - Green Ore (Granite)
+appliedenergistics2:facade:0, Cable Facade - Dense§r Green Ore (Granite)
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -2848,6 +2434,179 @@ multiblocked:part_tester:0, Part Test Block
 multiblocked:symbol:0, tile.multiblocked.symbol.name
 multiblocked:blueprint, Blueprint
 multiblocked:multiblock_builder, Multiblock Builder
+pneumaticcraft:fluid.plastic, Plastic
+pneumaticcraft:fluid.lpg, LPG
+pneumaticcraft:fluid.oil, Oil
+pneumaticcraft:fluid.fuel, Gasoline
+pneumaticcraft:fluid.kerosene, Kerosene
+pneumaticcraft:fluid.lubricant, Lubricant
+pneumaticcraft:fluid.diesel, Diesel
+pneumaticcraft:fluid.etchacid, Etching Acid
+pneumaticcraft:safety_tube_module, Safety Tube Module
+pneumaticcraft:pressure_gauge_module, Pressure Gauge Tube Module
+pneumaticcraft:flow_detector_module, Flow Detector Tube Module
+pneumaticcraft:air_grate_module, Air Grate Tube Module
+pneumaticcraft:regulator_tube_module, Regulator Tube Module
+pneumaticcraft:charging_module, Charging Module
+pneumaticcraft:logistics_module, Logistics Module
+pneumaticcraft:redstone_module, Redstone Module
+pneumaticcraft:logistic_frame_active_provider, Logistic Active Provider Frame
+pneumaticcraft:logistic_frame_passive_provider, Logistic Passive Provider Frame
+pneumaticcraft:logistic_frame_storage, Logistic Storage Frame
+pneumaticcraft:logistic_frame_default_storage, Logistic Default Storage Frame
+pneumaticcraft:logistic_frame_requester, Logistic Requester Frame
+pneumaticcraft:heat_frame, Heat Frame
+pneumaticcraft:spawner_agitator, Spawner Agitator
+pneumaticcraft:crop_support, Crop Support
+pneumaticcraft:transfer_gadget, Transfer Gadget
+pneumaticcraft:gps_tool, GPS Tool
+pneumaticcraft:gps_area_tool, GPS Area Tool
+pneumaticcraft:ingot_iron_compressed, Compressed Iron Ingot
+pneumaticcraft:pressure_gauge, Pressure Gauge
+pneumaticcraft:stone_base, Stone Base
+pneumaticcraft:cannon_barrel, Cannon Barrel
+pneumaticcraft:turbine_blade, Turbine Blade
+pneumaticcraft:plastic:0, Black Plastic
+pneumaticcraft:plastic:1, Red Plastic
+pneumaticcraft:plastic:2, Green Plastic
+pneumaticcraft:plastic:3, Brown Plastic
+pneumaticcraft:plastic:4, Blue Plastic
+pneumaticcraft:plastic:5, Purple Plastic
+pneumaticcraft:plastic:6, Cyan Plastic
+pneumaticcraft:plastic:7, Light Gray Plastic
+pneumaticcraft:plastic:8, Gray Plastic
+pneumaticcraft:plastic:9, Pink Plastic
+pneumaticcraft:plastic:10, Lime Plastic
+pneumaticcraft:plastic:11, Yellow Plastic
+pneumaticcraft:plastic:12, Light Blue Plastic
+pneumaticcraft:plastic:13, Magenta Plastic
+pneumaticcraft:plastic:14, Orange Plastic
+pneumaticcraft:plastic:15, White Plastic
+pneumaticcraft:air_canister, Air Canister
+pneumaticcraft:reinforced_air_canister, Reinforced Air Canister
+pneumaticcraft:vortex_cannon, Vortex Cannon
+pneumaticcraft:pneumatic_cylinder, Pneumatic Cylinder
+pneumaticcraft:pneumatic_helmet, Pneumatic Helmet
+pneumaticcraft:pneumatic_chestplate, Pneumatic Chestplate
+pneumaticcraft:pneumatic_leggings, Pneumatic Leggings
+pneumaticcraft:pneumatic_boots, Pneumatic Boots
+pneumaticcraft:manometer, Manometer
+pneumaticcraft:turbine_rotor, Turbine Rotor
+pneumaticcraft:assembly_program:0, Assembly Program: Drill
+pneumaticcraft:assembly_program:1, Assembly Program: Laser
+pneumaticcraft:assembly_program:2, Assembly Program: Drill & Laser
+pneumaticcraft:empty_pcb:0, Empty PCB
+pneumaticcraft:empty_pcb:100, Empty PCB
+pneumaticcraft:unassembled_pcb, Unassembled PCB
+pneumaticcraft:pcb_blueprint, PCB Blueprint
+pneumaticcraft:transistor, Transistor
+pneumaticcraft:capacitor, Capacitor
+pneumaticcraft:printed_circuit_board, Printed Circuit Board
+pneumaticcraft:failed_pcb, Failed PCB
+pneumaticcraft:network_component:0, Diagnostic Subroutine
+pneumaticcraft:network_component:1, Network API
+pneumaticcraft:network_component:2, Network Data Storage
+pneumaticcraft:network_component:3, Network IO Port
+pneumaticcraft:network_component:4, Network Registry
+pneumaticcraft:network_component:5, Network Node
+pneumaticcraft:stop_worm, STOP! Worm
+pneumaticcraft:nuke_virus, Nuke Virus
+pneumaticcraft:compressed_iron_gear, Compressed Iron Gear
+pneumaticcraft:pneumatic_wrench, Pneumatic Wrench
+pneumaticcraft:drone, Drone
+pneumaticcraft:programming_puzzle:1, Red Programming Puzzle
+pneumaticcraft:programming_puzzle:2, Green Programming Puzzle
+pneumaticcraft:programming_puzzle:3, Brown Programming Puzzle
+pneumaticcraft:programming_puzzle:4, Blue Programming Puzzle
+pneumaticcraft:programming_puzzle:5, Purple Programming Puzzle
+pneumaticcraft:programming_puzzle:6, Cyan Programming Puzzle
+pneumaticcraft:programming_puzzle:8, Gray Programming Puzzle
+pneumaticcraft:programming_puzzle:9, Pink Programming Puzzle
+pneumaticcraft:programming_puzzle:10, Lime Programming Puzzle
+pneumaticcraft:programming_puzzle:11, Yellow Programming Puzzle
+pneumaticcraft:programming_puzzle:12, Light Blue Programming Puzzle
+pneumaticcraft:programming_puzzle:14, Orange Programming Puzzle
+pneumaticcraft:programming_puzzle:15, White Programming Puzzle
+pneumaticcraft:advanced_pcb, Advanced PCB
+pneumaticcraft:remote, Remote
+pneumaticcraft:seismic_sensor, Seismic Sensor
+pneumaticcraft:logistics_configurator, Logistics Configurator
+pneumaticcraft:logistic_drone, Logistic Drone
+pneumaticcraft:harvesting_drone, Harvesting Drone
+pneumaticcraft:gun_ammo, Minigun Ammo
+pneumaticcraft:gun_ammo_incendiary, Incendiary Minigun Ammo
+pneumaticcraft:gun_ammo_weighted, Weighted Minigun Ammo
+pneumaticcraft:gun_ammo_ap, Armor-Piercing Minigun Ammo
+pneumaticcraft:gun_ammo_explosive, Explosive Minigun Ammo
+pneumaticcraft:gun_ammo_freezing, Freezing Minigun Ammo
+pneumaticcraft:amadron_tablet, Amadron Tablet
+pneumaticcraft:minigun, Minigun
+pneumaticcraft:camo_applicator, Camouflage Applicator
+pneumaticcraft:micromissiles, Micromissiles
+pneumaticcraft:volume_upgrade, Volume Upgrade
+pneumaticcraft:dispenser_upgrade, Dispenser Upgrade
+pneumaticcraft:item_life_upgrade, Item Life Upgrade
+pneumaticcraft:entity_tracker_upgrade, Entity Tracker Upgrade
+pneumaticcraft:block_tracker_upgrade, Block Tracker Upgrade
+pneumaticcraft:speed_upgrade, Speed Upgrade
+pneumaticcraft:search_upgrade, Item Search Upgrade
+pneumaticcraft:coordinate_tracker_upgrade, Coordinate Tracker Upgrade
+pneumaticcraft:range_upgrade, Range Upgrade
+pneumaticcraft:security_upgrade, Security Upgrade
+pneumaticcraft:magnet_upgrade, Magnet Upgrade
+pneumaticcraft:charging_upgrade, Charging Upgrade
+pneumaticcraft:armor_upgrade, Armor Upgrade
+pneumaticcraft:jet_boots_upgrade, Jet Boots Upgrade
+pneumaticcraft:night_vision_upgrade, Night Vision Upgrade
+pneumaticcraft:scuba_upgrade, SCUBA Upgrade
+pneumaticcraft:creative_upgrade, Creative Supply Upgrade
+pneumaticcraft:pressure_tube, Pressure Tube
+pneumaticcraft:advanced_pressure_tube, Advanced Pressure Tube
+pneumaticcraft:air_compressor, Air Compressor
+pneumaticcraft:advanced_air_compressor, Advanced Air Compressor
+pneumaticcraft:air_cannon, Air Cannon
+pneumaticcraft:pressure_chamber_wall, Pressure Chamber Wall
+pneumaticcraft:pressure_chamber_glass, Pressure Chamber Glass
+pneumaticcraft:pressure_chamber_valve, Pressure Chamber Valve
+pneumaticcraft:charging_station, Charging Station
+pneumaticcraft:elevator_base, Elevator Base
+pneumaticcraft:elevator_frame, Elevator Frame
+pneumaticcraft:pressure_chamber_interface, Pressure Chamber Interface
+pneumaticcraft:vacuum_pump, Vacuum Pump
+pneumaticcraft:pneumatic_door_base, Pneumatic Door Base
+pneumaticcraft:pneumatic_door, Pneumatic Door
+pneumaticcraft:assembly_io_unit, Assembly IO Unit
+pneumaticcraft:assembly_platform, Assembly Platform
+pneumaticcraft:assembly_drill, Assembly Drill
+pneumaticcraft:assembly_laser, Assembly Laser
+pneumaticcraft:assembly_controller, Assembly Controller
+pneumaticcraft:compressed_iron_block, Block of Compressed Iron
+pneumaticcraft:uv_light_box, UV Light Box
+pneumaticcraft:security_station, Security Station
+pneumaticcraft:universal_sensor, Universal Sensor
+pneumaticcraft:aerial_interface, Aerial Interface
+pneumaticcraft:electrostatic_compressor, Electrostatic Compressor
+pneumaticcraft:aphorism_tile, Aphorism Tile
+pneumaticcraft:omnidirectional_hopper, Omnidirectional Hopper
+pneumaticcraft:liquid_hopper, Liquid Hopper
+pneumaticcraft:elevator_caller, Elevator Caller
+pneumaticcraft:programmer, Programmer
+pneumaticcraft:creative_compressor, Creative Compressor
+pneumaticcraft:plastic_mixer, Plastic Mixer
+pneumaticcraft:liquid_compressor, Liquid Compressor
+pneumaticcraft:advanced_liquid_compressor, Advanced Liquid Compressor
+pneumaticcraft:heat_sink, Heat Sink
+pneumaticcraft:vortex_tube, Vortex Tube
+pneumaticcraft:programmable_controller, Programmable Controller
+pneumaticcraft:gas_lift, Gas Lift
+pneumaticcraft:refinery, Refinery
+pneumaticcraft:thermopneumatic_processing_plant, Thermopneumatic Processing Plant
+pneumaticcraft:kerosene_lamp, Kerosene Lamp
+pneumaticcraft:sentry_turret, Sentry Turret
+pneumaticcraft:flux_compressor, Flux Compressor
+pneumaticcraft:pneumatic_dynamo, Pneumatic Dynamo
+pneumaticcraft:fake_ice, tile.fake_ice.name
+pneumaticcraft:thermal_compressor, Thermal Compressor
 dimstack:portal, Transition Portal
 dimstack:dim_pipe, Interdimensional Pipe
 dimstack:bedrock:0, Barrier §4Alpha
@@ -2869,115 +2628,67 @@ dimstack:bedrock:15, Void Bedrock
 base:wrench, Wrench
 contenttweaker:zs_item, Activated Warp Fuel
 contenttweaker:crwarp, item.contenttweaker.CRWarp.name
-osv:immersiveengineering_aluminum_ore:0, Bauxite Ore (Stone)
-osv:immersiveengineering_aluminum_ore:1, Dense§r Bauxite Ore (Stone)
-osv:emerald_ore_1:0, Green Ore (Granite)
-osv:emerald_ore_1:1, Dense§r Green Ore (Granite)
-osv:immersiveengineering_silver_ore_5:0, Silver Ore (Andesite)
-osv:immersiveengineering_silver_ore_5:1, Dense§r Silver Ore (Andesite)
-osv:immersiveengineering_copper_ore_3:0, Copper Ore (Diorite)
-osv:immersiveengineering_copper_ore_3:1, Dense§r Copper Ore (Diorite)
-osv:iron_ore_5:0, Iron Ore (Andesite)
-osv:iron_ore_5:1, Dense§r Iron Ore (Andesite)
-osv:immersiveengineering_copper_ore:0, Copper Ore (Stone)
-osv:immersiveengineering_copper_ore:1, Dense§r Copper Ore (Stone)
-osv:immersiveengineering_lead_ore:0, Lead Ore (Stone)
-osv:immersiveengineering_lead_ore:1, Dense§r Lead Ore (Stone)
-osv:immersiveengineering_uranium_ore:0, Uranium Ore (Stone)
-osv:immersiveengineering_uranium_ore:1, Dense§r Uranium Ore (Stone)
-osv:lapis_ore:0, Lapis Lazuli Ore (Stone)
-osv:lapis_ore:1, Dense§r Lapis Lazuli Ore (Stone)
-osv:redstone_ore_3:0, Redstone Ore (Diorite)
-osv:redstone_ore_3:1, Dense§r Redstone Ore (Diorite)
-osv:redstone_ore_3:2, Dense§r Redstone Ore (Diorite)
-osv:redstone_ore_3:3, Dense§r Redstone Ore (Diorite)
-osv:diamond_ore:0, Diamond Ore (Stone)
-osv:diamond_ore:1, Dense§r Diamond Ore (Stone)
-osv:lapis_ore_3:0, Lapis Lazuli Ore (Diorite)
-osv:lapis_ore_3:1, Dense§r Lapis Lazuli Ore (Diorite)
-osv:gold_ore_3:0, Gold Ore (Diorite)
-osv:gold_ore_3:1, Dense§r Gold Ore (Diorite)
-osv:lapis_ore_1:0, Lapis Lazuli Ore (Granite)
-osv:lapis_ore_1:1, Dense§r Lapis Lazuli Ore (Granite)
-osv:redstone_ore_5:0, Redstone Ore (Andesite)
-osv:redstone_ore_5:1, Dense§r Redstone Ore (Andesite)
-osv:redstone_ore_5:2, Dense§r Redstone Ore (Andesite)
-osv:redstone_ore_5:3, Dense§r Redstone Ore (Andesite)
-osv:immersiveengineering_uranium_ore_5:0, Uranium Ore (Andesite)
-osv:immersiveengineering_uranium_ore_5:1, Dense§r Uranium Ore (Andesite)
-osv:gold_ore_1:0, Gold Ore (Granite)
-osv:gold_ore_1:1, Dense§r Gold Ore (Granite)
-osv:iron_ore_1:0, Iron Ore (Granite)
-osv:iron_ore_1:1, Dense§r Iron Ore (Granite)
-osv:immersiveengineering_nickel_ore:0, Nickel Ore (Stone)
-osv:immersiveengineering_nickel_ore:1, Dense§r Nickel Ore (Stone)
-osv:coal_ore_1:0, Coal Ore (Granite)
-osv:coal_ore_1:1, Dense§r Coal Ore (Granite)
-osv:immersiveengineering_silver_ore:0, Silver Ore (Stone)
-osv:immersiveengineering_silver_ore:1, Dense§r Silver Ore (Stone)
-osv:iron_ore_3:0, Iron Ore (Diorite)
-osv:iron_ore_3:1, Dense§r Iron Ore (Diorite)
-osv:emerald_ore_5:0, Green Ore (Andesite)
-osv:emerald_ore_5:1, Dense§r Green Ore (Andesite)
-osv:immersiveengineering_copper_ore_1:0, Copper Ore (Granite)
-osv:immersiveengineering_copper_ore_1:1, Dense§r Copper Ore (Granite)
-osv:emerald_ore_3:0, Green Ore (Diorite)
-osv:emerald_ore_3:1, Dense§r Green Ore (Diorite)
-osv:immersiveengineering_nickel_ore_5:0, Nickel Ore (Andesite)
-osv:immersiveengineering_nickel_ore_5:1, Dense§r Nickel Ore (Andesite)
-osv:immersiveengineering_lead_ore_1:0, Lead Ore (Granite)
-osv:immersiveengineering_lead_ore_1:1, Dense§r Lead Ore (Granite)
-osv:coal_ore_5:0, Coal Ore (Andesite)
-osv:coal_ore_5:1, Dense§r Coal Ore (Andesite)
-osv:immersiveengineering_silver_ore_3:0, Silver Ore (Diorite)
-osv:immersiveengineering_silver_ore_3:1, Dense§r Silver Ore (Diorite)
-osv:immersiveengineering_nickel_ore_1:0, Nickel Ore (Granite)
-osv:immersiveengineering_nickel_ore_1:1, Dense§r Nickel Ore (Granite)
-osv:immersiveengineering_uranium_ore_3:0, Uranium Ore (Diorite)
-osv:immersiveengineering_uranium_ore_3:1, Dense§r Uranium Ore (Diorite)
-osv:immersiveengineering_uranium_ore_1:0, Uranium Ore (Granite)
-osv:immersiveengineering_uranium_ore_1:1, Dense§r Uranium Ore (Granite)
-osv:diamond_ore_3:0, Diamond Ore (Diorite)
-osv:diamond_ore_3:1, Dense§r Diamond Ore (Diorite)
-osv:immersiveengineering_aluminum_ore_1:0, Bauxite Ore (Granite)
-osv:immersiveengineering_aluminum_ore_1:1, Dense§r Bauxite Ore (Granite)
-osv:lapis_ore_5:0, Lapis Lazuli Ore (Andesite)
-osv:lapis_ore_5:1, Dense§r Lapis Lazuli Ore (Andesite)
 osv:emerald_ore:0, Green Ore (Stone)
 osv:emerald_ore:1, Dense§r Green Ore (Stone)
-osv:immersiveengineering_aluminum_ore_3:0, Bauxite Ore (Diorite)
-osv:immersiveengineering_aluminum_ore_3:1, Dense§r Bauxite Ore (Diorite)
+osv:lapis_ore_1:0, Lapis Lazuli Ore (Granite)
+osv:lapis_ore_1:1, Dense§r Lapis Lazuli Ore (Granite)
+osv:iron_ore_1:0, Iron Ore (Granite)
+osv:iron_ore_1:1, Dense§r Iron Ore (Granite)
+osv:emerald_ore_1:0, Green Ore (Granite)
+osv:emerald_ore_1:1, Dense§r Green Ore (Granite)
+osv:iron_ore:0, Iron Ore (Stone)
+osv:iron_ore:1, Dense§r Iron Ore (Stone)
+osv:iron_ore_3:0, Iron Ore (Diorite)
+osv:iron_ore_3:1, Dense§r Iron Ore (Diorite)
+osv:diamond_ore:0, Diamond Ore (Stone)
+osv:diamond_ore:1, Dense§r Diamond Ore (Stone)
 osv:redstone_ore:0, Redstone Ore (Stone)
 osv:redstone_ore:1, Dense§r Redstone Ore (Stone)
 osv:redstone_ore:2, Dense§r Redstone Ore (Stone)
 osv:redstone_ore:3, Dense§r Redstone Ore (Stone)
-osv:immersiveengineering_aluminum_ore_5:0, Bauxite Ore (Andesite)
-osv:immersiveengineering_aluminum_ore_5:1, Dense§r Bauxite Ore (Andesite)
-osv:iron_ore:0, Iron Ore (Stone)
-osv:iron_ore:1, Dense§r Iron Ore (Stone)
-osv:immersiveengineering_lead_ore_5:0, Lead Ore (Andesite)
-osv:immersiveengineering_lead_ore_5:1, Dense§r Lead Ore (Andesite)
-osv:diamond_ore_5:0, Diamond Ore (Andesite)
-osv:diamond_ore_5:1, Dense§r Diamond Ore (Andesite)
-osv:immersiveengineering_lead_ore_3:0, Lead Ore (Diorite)
-osv:immersiveengineering_lead_ore_3:1, Dense§r Lead Ore (Diorite)
+osv:gold_ore_3:0, Gold Ore (Diorite)
+osv:gold_ore_3:1, Dense§r Gold Ore (Diorite)
+osv:lapis_ore:0, Lapis Lazuli Ore (Stone)
+osv:lapis_ore:1, Dense§r Lapis Lazuli Ore (Stone)
 osv:coal_ore:0, Coal Ore (Stone)
 osv:coal_ore:1, Dense§r Coal Ore (Stone)
+osv:diamond_ore_5:0, Diamond Ore (Andesite)
+osv:diamond_ore_5:1, Dense§r Diamond Ore (Andesite)
+osv:coal_ore_5:0, Coal Ore (Andesite)
+osv:coal_ore_5:1, Dense§r Coal Ore (Andesite)
+osv:emerald_ore_3:0, Green Ore (Diorite)
+osv:emerald_ore_3:1, Dense§r Green Ore (Diorite)
 osv:gold_ore_5:0, Gold Ore (Andesite)
 osv:gold_ore_5:1, Dense§r Gold Ore (Andesite)
-osv:coal_ore_3:0, Coal Ore (Diorite)
-osv:coal_ore_3:1, Dense§r Coal Ore (Diorite)
 osv:gold_ore:0, Gold Ore (Stone)
 osv:gold_ore:1, Dense§r Gold Ore (Stone)
-osv:immersiveengineering_copper_ore_5:0, Copper Ore (Andesite)
-osv:immersiveengineering_copper_ore_5:1, Dense§r Copper Ore (Andesite)
-osv:immersiveengineering_silver_ore_1:0, Silver Ore (Granite)
-osv:immersiveengineering_silver_ore_1:1, Dense§r Silver Ore (Granite)
-osv:diamond_ore_1:0, Diamond Ore (Granite)
-osv:diamond_ore_1:1, Dense§r Diamond Ore (Granite)
-osv:immersiveengineering_nickel_ore_3:0, Nickel Ore (Diorite)
-osv:immersiveengineering_nickel_ore_3:1, Dense§r Nickel Ore (Diorite)
 osv:redstone_ore_1:0, Redstone Ore (Granite)
 osv:redstone_ore_1:1, Dense§r Redstone Ore (Granite)
 osv:redstone_ore_1:2, Dense§r Redstone Ore (Granite)
 osv:redstone_ore_1:3, Dense§r Redstone Ore (Granite)
+osv:coal_ore_1:0, Coal Ore (Granite)
+osv:coal_ore_1:1, Dense§r Coal Ore (Granite)
+osv:diamond_ore_3:0, Diamond Ore (Diorite)
+osv:diamond_ore_3:1, Dense§r Diamond Ore (Diorite)
+osv:redstone_ore_5:0, Redstone Ore (Andesite)
+osv:redstone_ore_5:1, Dense§r Redstone Ore (Andesite)
+osv:redstone_ore_5:2, Dense§r Redstone Ore (Andesite)
+osv:redstone_ore_5:3, Dense§r Redstone Ore (Andesite)
+osv:gold_ore_1:0, Gold Ore (Granite)
+osv:gold_ore_1:1, Dense§r Gold Ore (Granite)
+osv:emerald_ore_5:0, Green Ore (Andesite)
+osv:emerald_ore_5:1, Dense§r Green Ore (Andesite)
+osv:iron_ore_5:0, Iron Ore (Andesite)
+osv:iron_ore_5:1, Dense§r Iron Ore (Andesite)
+osv:lapis_ore_3:0, Lapis Lazuli Ore (Diorite)
+osv:lapis_ore_3:1, Dense§r Lapis Lazuli Ore (Diorite)
+osv:coal_ore_3:0, Coal Ore (Diorite)
+osv:coal_ore_3:1, Dense§r Coal Ore (Diorite)
+osv:redstone_ore_3:0, Redstone Ore (Diorite)
+osv:redstone_ore_3:1, Dense§r Redstone Ore (Diorite)
+osv:redstone_ore_3:2, Dense§r Redstone Ore (Diorite)
+osv:redstone_ore_3:3, Dense§r Redstone Ore (Diorite)
+osv:diamond_ore_1:0, Diamond Ore (Granite)
+osv:diamond_ore_1:1, Dense§r Diamond Ore (Granite)
+osv:lapis_ore_5:0, Lapis Lazuli Ore (Andesite)
+osv:lapis_ore_5:1, Dense§r Lapis Lazuli Ore (Andesite)
